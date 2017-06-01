@@ -9,7 +9,7 @@
  •	It's still fully undetectable.<br>
  •	Removed dead links.<br>
 
-  <img src="https://pasteboard.co/didvbFXxW.jpg">
+  <img src="https://cloud.githubusercontent.com/assets/11989524/26680457/0a329710-46c9-11e7-9e21-b9655af24037.JPG">
 
 ## Changelog(v2.8)
 
@@ -41,3 +41,4 @@
  •	Small size.<br>
  •	Choice of encoding, which employs a shell.<br>
  
+ <img src="https://cloud.githubusercontent.com/assets/11989524/26680495/2f2ace34-46c9-11e7-8b55-20a985cdac69.png">
