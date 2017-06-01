@@ -5,11 +5,11 @@
 
  •	Changed encoding values with multiplication.<br>
  •	Pretty Hard to get detected.<br>
- •	Added Front End HTML Not Found page for hidden Login.
- •	It's still fully undetectable.
- •	Removed dead links.
+ •	Added Front End HTML Not Found page for hidden Login.<br>
+ •	It's still fully undetectable.<br>
+ •	Removed dead links.<br>
 
- 
+  <img src="https://pasteboard.co/didvbFXxW.jpg">
 
 ## Changelog(v2.8)
 
