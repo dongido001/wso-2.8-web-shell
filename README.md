@@ -1,5 +1,16 @@
 # WSO 2.8.5 webshell
 
+
+## Changelog(v2.8.5)
+
+ •	Changed encoding values with multiplication.<br>
+ •	Pretty Hard to get detected.<br>
+ •	Added Front End HTML Not Found page for hidden Login.
+ •	It's still fully undetectable.
+ •	Removed dead links.
+
+ 
+
 ## Changelog(v2.8)
 
  •	Remove comments from the first line .<br>
