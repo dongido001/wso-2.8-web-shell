@@ -1,4 +1,14 @@
-# WSO 2.8 webshell
+# WSO 2.8.5 webshell
+
+## Changelog(v2.8)
+
+ •	Remove comments from the first line .<br>
+ •	Added option to dump certain columns of tables.<br>
+ •	in the file properties field "Create time" changed to "Change time" (http://php.net/filectime).<br>
+ •	Fixed a bug that caused not working mysql brute force if there was a port of the server .<br>
+ •	Fixed a bug due to which one cannot see the contents of a table called download in the database.
+ 
+
 
 ## Features
 
@@ -19,13 +29,4 @@
  •	You can use AJAX<br>
  •	Small size.<br>
  •	Choice of encoding, which employs a shell.<br>
- 
- <img src="https://dl.dropboxusercontent.com/u/33853470/WSO_new.png">
-## Changelog(v2.8)
-
- •	Remove comments from the first line .<br>
- •	Added option to dump certain columns of tables.<br>
- •	in the file properties field "Create time" changed to "Change time" (http://php.net/filectime).<br>
- •	Fixed a bug that caused not working mysql brute force if there was a port of the server .<br>
- •	Fixed a bug due to which one cannot see the contents of a table called download in the database.
  
